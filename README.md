@@ -3,7 +3,9 @@
 ## 興味のあることや作ったもの
 - ### [リバーシを作った](https://github.com/ofutonMizuki/Reversi)
   - 機械学習みたいなものをやってみたくてC++で書いたリバーシの学習部で学習させた評価関数をブラウザ上で動かせるようにしたもの
+  - 目的はあくまで思考エンジンの公開なので見た目は気にしていない
   - 簡単なαβ探索と簡単な形式の評価関数の組み合わせでありながらそこそこ強いものに仕上がって満足している
+  - 対戦は[こちら](https://ofutonmizuki.github.io/Reversi/src/)から
   
 - ### [Discordの読み上げBOTを作った](https://github.com/ofutonMizuki/HakomiSan-DiscordTTSBOT)
   - 私自身が声を出せない状態が度々あったのが開発のきっかけ
