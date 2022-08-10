@@ -1,1 +1,28 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ofutonMizuki&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+# おふとんみずき(ofutonMizuki)
+
+## 興味のあることや作ったもの
+- ### [リバーシを作った](https://github.com/ofutonMizuki/Reversi)
+  - 機械学習みたいなものをやってみたくてC++で書いたリバーシの学習部で学習させた評価関数をブラウザ上で動かせるようにしたもの
+  - 簡単なαβ探索と簡単な形式の評価関数の組み合わせでありながらそこそこ強いものに仕上がって満足している
+  
+- ### [Discordの読み上げBOTを作った](https://github.com/ofutonMizuki/HakomiSan-DiscordTTSBOT)
+  - 私自身が声を出せない状態が度々あったのが開発のきっかけ
+  - 2021年からDiscordの読み上げBOTを作っていた
+    - とても人に見せられるような出来ではなかったのでコードを流用しつつ新しく開発
+  - 2021年版は軽量を意識しており負荷を分散することを目的としていた(故にごちゃごちゃしていた)
+    - 今回はシンプルを意識した
+   
+## その他やってること
+- ### 基本情報, 応用情報, 情報処理安全確保支援士試験(通称: セキスペ)に合格
+  - 完全に趣味で受験
+  - 広く浅くではあるが知識が増えていくのが面白かった
+  
+- ### 副業では改ざんされたwebサイトの修復や、Discord関係のお手伝いをしている
+  - PHPやJSの知識とセキスペの知識を生かしてサイトを修復
+  - Discord関係では専用BOTの開発など
+
+## 統計
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofutonMizuki&layout=compact&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ofutonMizuki&show_icons=ture" />
+</p>
