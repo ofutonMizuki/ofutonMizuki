@@ -18,10 +18,10 @@
   - 2021年版は大規模運用を前提として軽量を意識しており負荷を分散することを目的としていた(故にごちゃごちゃしていた)
     - 今回はセルフホストを前提にシンプルを意識した
     
-- ### [ライフゲームを作った](https://github.com/ofutonMizuki/LifeGame)
+- ### [色が遺伝するライフゲームを作った](https://github.com/ofutonMizuki/LifeGame)
   - **TypeScript + Canvas**
   - ブラウザ向けのアプリをTypeScriptで書いてみたかったので練習
-  - いまは鑑賞用だけれどいつか状態を編集できるようにしたい
+  - カラフルを実現するために遺伝要素を加えた
   - 鑑賞は[こちら](https://ofutonmizuki.github.io/LifeGame/src/)から
    
 ## その他やってること
