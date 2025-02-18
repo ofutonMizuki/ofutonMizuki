@@ -1,6 +1,12 @@
 # おふとんみずき(ofutonMizuki)
 
 ## 興味のあることや作ったもの
+- ### [ファミコンエミュレータ開発(進行中)](https://github.com/ofutonMizuki/NES-emulator-with-TypeScript)
+  - **TypeScript**
+  - ハードウェア寄りの知識を身に着ける
+  - 保守性の高いコードを書くように心がける
+  - htmlなど直接ロジックに関係ない部分は生成AIに任せる(Google Gemini)
+
 - ### [リバーシを作った](https://github.com/ofutonMizuki/Reversi)
   - **主にJavaScript (公開はしていないが学習部はC言語)**
   - 将棋電王戦に影響されて似たようなものを作ってみたかったのがきっかけ
